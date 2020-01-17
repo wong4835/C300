@@ -28,7 +28,7 @@ main()
     {
         printf("10> 20 is false.\n");
     }
-    
+
     if(-1)  //참
     {
         printf("-1 is true.\n");
