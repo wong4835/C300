@@ -3,7 +3,7 @@
 
 int print(char *string);
 
-void main(void)
+main()
 {
     print("This is a putch function!");
 }
