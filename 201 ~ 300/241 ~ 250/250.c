@@ -3,7 +3,7 @@
 
 void main(void)
 {
-    struct tm christmas = {0, 0, 0, 25, 12-1, 2007-1900};
+    struct tm christmas = {0, 0, 0, 15, 8-1, 2020-1900};
     char *wday[] = {"Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"};
     char buff[100];
 
